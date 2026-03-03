@@ -2,6 +2,22 @@
 
 Practice and exercises from the [DataCamp Intermediate Python](https://www.datacamp.com/courses/intermediate-python) course.
 
+## Structure
+
+```
+README.md
+requirements.txt
+.gitignore
+day01_core_syntax/
+day02_debugging/
+day03_pandas/
+day04_features/
+day05_modeling/
+day06_rebuild/
+day07_simulation/
+scratch/
+```
+
 ## Topics
 
 - Matplotlib
