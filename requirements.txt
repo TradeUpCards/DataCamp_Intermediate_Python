@@ -1,0 +1,3 @@
+# DataCamp Intermediate Python
+pandas>=2.0
+matplotlib>=3.7
